@@ -6,6 +6,7 @@ In this project, the model is predicting emoji's according to a given sentence u
 
 # Algorithm's Used
 -LSTM
+-RNN
 
 **Emoji Prediction.ipynb**   
 This python script contains the code for both the models and their predictions.
